@@ -5,16 +5,25 @@
 
 # //////////////////////////////////////////////////////////
 print("1. TASK: print 'Hello World'")
+
 print ("Hello World")
+print ()
+
+# //////////////////////////////////////////////////////////
+print("2. print 'Hello Noelle!' with the name in a variable")
+
+name = "Noelle"
+
+print("Hello", name, "!")	                                    # string concatination with a comma
+print( "Hello " + name +"!" )	                                # string concatination with a +
+print ()
+
+# //////////////////////////////////////////////////////////
+print("3. print "Hello 42!" with the number in a variable")
+
+name = 42
 
 """
-print( your code here )
-# 2. print "Hello Noelle!" with the name in a variable
-name = "Noelle"
-print( your code here )	# with a comma
-print( your code here )	# with a +
-# 3. print "Hello 42!" with the number in a variable
-name = 42
 print( your code here )	# with a comma
 print( your code here )	# with a +	-- this one should give us an error!
 # 4. print "I love to eat sushi and pizza." with the foods in variables
