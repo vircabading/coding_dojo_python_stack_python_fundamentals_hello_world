@@ -7,6 +7,7 @@
 print("1. TASK: print 'Hello World'")
 print ("Hello World")
 
+"""
 print( your code here )
 # 2. print "Hello Noelle!" with the name in a variable
 name = "Noelle"
@@ -21,5 +22,5 @@ fave_food1 = "sushi"
 fave_food2 = "pizza"
 print( your code here ) # with .format()
 print( your code here ) # with an f string
-
+"""
 
